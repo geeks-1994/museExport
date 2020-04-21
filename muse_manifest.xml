@@ -1,0 +1,780 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sample.com" resolutions="1x" timestamp="1565742435795">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4005212502" ref="beneficios:index:importante:servicios:contacto"/>
+    <file name="beneficios.css" crc="524581543" ref="beneficios"/>
+    <file name="iefonts_beneficios.css" crc="3824530138" ref="beneficios"/>
+    <file name="index.css" crc="4272415712" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="importante.css" crc="156717524" ref="importante"/>
+    <file name="iefonts_importante.css" crc="3824530138" ref="importante"/>
+    <file name="servicios.css" crc="426873484" ref="servicios"/>
+    <file name="iefonts_servicios.css" crc="3824530138" ref="servicios"/>
+    <file name="contacto.css" crc="102782321" ref="contacto"/>
+    <file name="iefonts_contacto.css" crc="3824530138" ref="contacto"/>
+    <file name="nomq_preview_master_a-master.css" crc="4246081725" ref="servicios:importante:index:beneficios:contacto"/>
+    <file name="nomq_servicios.css" crc="315335232" ref="servicios"/>
+    <file name="nomq_importante.css" crc="298884625" ref="importante"/>
+    <file name="nomq_index.css" crc="4078044834" ref="index"/>
+    <file name="nomq_beneficios.css" crc="443779589" ref="beneficios"/>
+    <file name="nomq_contacto.css" crc="474280594" ref="contacto"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:servicios:beneficios:importante:contacto"/>
+    <file name="museutils.js" crc="3803043152" ref="index:servicios:beneficios:importante:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:servicios:beneficios:importante:contacto"/>
+    <file name="museconfig.js" crc="380897831" ref="index:servicios:beneficios:importante:contacto"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:servicios:beneficios:importante:contacto"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:servicios:beneficios:importante:contacto"/>
+    <file name="webpro.js" crc="242022427" ref="index:contacto:servicios:beneficios:importante"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:servicios"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:servicios"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:servicios"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:servicios:beneficios:importante:contacto"/>
+    <file name="require.js" crc="4157109226" ref="index:servicios:beneficios:importante:contacto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="servicios:importante"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="servicios:index:beneficios:importante:contacto"/>
+    <file name="form_check.php" crc="147359589" ref="contacto"/>
+    <file name="form_throttle.php" crc="93986428" ref="contacto"/>
+    <file name="form_process.php" crc="3851993751" ref="contacto"/>
+    <file name="form-u4370.php" crc="476350228" ref="contacto"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:servicios:beneficios:importante:contacto"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:servicios:beneficios:importante:contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="inicio-favicon.ico" crc="3824943478" ref="index"/>
+    <file name="logotipopng.png" crc="175012684" seo="true" ref="index:servicios:beneficios:importante:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:servicios:beneficios:importante:contacto"/>
+    <file name="cornfield_in_south_africa2.jpg" crc="357460901" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1518195444fljb9t68.jpg" crc="4184373579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="transporte-pesado-perú.jpg" crc="407068918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="uno-gas-03062015_06.jpg" crc="191938298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:servicios"/>
+    <file name="slide.png" crc="3994911791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agroindustrias.png" crc="521402802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="construcción.png" crc="197174099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mineria.png" crc="497300376" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="transporte.png" crc="4164489457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="distribución.png" crc="331733072" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gasolinera.png" crc="299906596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-official.png" crc="160827727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6_6png190518.png" crc="3793737658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_ser_san_antonio-o8217.png" crc="13084769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ser-chumbagua-300x78.jpg" crc="68444011" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ingenio_magdalena7.jpg" crc="164173040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-grupo-hame-01_fondo_transparente-204x300.png" crc="176656962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el-pilar.jpg" crc="3955748631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="madre_tierra_logo.jpg" crc="3981630004" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images.jpg" crc="4225201827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-casur-ult-300x226.jpg" crc="4093231195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="santa-ana.jpg" crc="3767061717" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="introsa-logo.jpg" crc="3972110842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="descarga.jpg" crc="4170688001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grupo-jaremar-edit.jpg" crc="469288852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logopro.png" crc="4214996325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="3815653897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="descarga (1).jpg" crc="306467655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1kadfp4b.jpg" crc="19154438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="construccion-de-plantas-de-almacenamiento-de-combustible.jpg" crc="55211622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="procedimiento-de-recepcion-por-compartimiento-crop-u2896.jpg" crc="234936672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tad_pemex_axil_hs_4jpg_1348255499.jpg" crc="375116294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="llenadero-bajo-grande.jpg" crc="252122609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tabla.jpg" crc="4149404341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tabla2.png" crc="3865443966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ubicación.png" crc="407673638" seo="true" ref="index:servicios:beneficios:importante:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+    </file>
+    <file name="telefono.png" crc="3848628879" seo="true" ref="index:servicios:beneficios:importante:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+    </file>
+    <file name="mensaje.png" crc="53596483" seo="true" ref="index:servicios:beneficios:importante:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+    </file>
+    <file name="icono2.png" crc="3865374362" seo="true" ref="index:servicios:beneficios:importante:contacto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+    </file>
+    <file name="boton-naranja-cargando-90777.gif" crc="4185198341" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="banner pos pda.png" crc="413641388" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="pelambre-188a1.jpg" crc="107586869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="procedimiento-de-recepcion-por-compartimiento-crop-u28962.jpg" crc="234936672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="procedimiento-de-recepcion-por-compartimiento.jpg" crc="4039856730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tabla2840x394.png" crc="3865443966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu.svg" crc="4006810428" ref="index"/>
+    <file name="menu_poster_u6064.png" crc="37726303" ref="index"/>
+    <file name="cerrar.svg" crc="494171557" ref="index"/>
+    <file name="cerrar_poster_u6072.png" crc="3981862761" ref="index"/>
+    <file name="construccion-de-plantas-de-almacenamiento-de-combustible478x307.jpg" crc="471543378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="procedimiento-de-recepcion-por-compartimiento491x328.jpg" crc="4243162403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tad_pemex_axil_hs_4jpg_1348255499507x290.jpg" crc="521580460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="llenadero-bajo-grande463x293.jpg" crc="84018261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tabla580x278.jpg" crc="4204817591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tabla2-crop-u2996.png" crc="4027091842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="construccion-de-plantas-de-almacenamiento-de-combustible351x226.jpg" crc="328465163" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="procedimiento-de-recepcion-por-compartimiento-crop-u28963.jpg" crc="115180483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tad_pemex_axil_hs_4jpg_1348255499355x203.jpg" crc="4100894581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="llenadero-bajo-grande339x215.jpg" crc="4091468124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tabla375x180.jpg" crc="3899310488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tabla2405x190.png" crc="3960439430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="construccion-de-plantas-de-almacenamiento-de-combustible246x158.jpg" crc="4178276800" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="procedimiento-de-recepcion-por-compartimiento-crop-u28964.jpg" crc="349765899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tad_pemex_axil_hs_4jpg_1348255499248x142.jpg" crc="154463331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="llenadero-bajo-grande238x151.jpg" crc="358245070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tabla263x126.jpg" crc="78522332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tabla2284x133.png" crc="393009057" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuellog2.jpg" crc="419964779" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fuellog2-crop-u4518.jpg" crc="333863831" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tanklog.jpg" crc="94310256" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tanklog-crop-u4842.jpg" crc="3813184771" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smarthlog.jpg" crc="4064733132" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smarthlog-crop-u5173.jpg" crc="4056926833" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fuellog2-crop-u45182.jpg" crc="3964123081" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tanklog-crop-u48422.jpg" crc="217671541" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smarthlog-crop-u51732.jpg" crc="3857949771" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fuellog2-crop-u45183.jpg" crc="3856035147" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tanklog-crop-u48423.jpg" crc="19709072" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smarthlog-crop-u51733.jpg" crc="106265211" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="20190808_115035.gif" crc="158422109" ref="importante">
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+    </file>
+    <file name="recurso 13.png" crc="4006378958" seo="true" ref="importante">
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+      <caption webpage="importante" alt=""/>
+    </file>
+    <file name="recurso 13205x215.png" crc="4006378958" seo="true" ref="importante">
+      <caption webpage="importante" alt=""/>
+    </file>
+    <file name="recurso 13154x162.png" crc="482796471" seo="true" ref="importante">
+      <caption webpage="importante" alt=""/>
+    </file>
+    <file name="recurso 13111x116.png" crc="61682017" seo="true" ref="importante">
+      <caption webpage="importante" alt=""/>
+    </file>
+    <file name="grafico2.png" crc="328317532" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rfitag.jpg" crc="448578412" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rfitag-crop-u4999.jpg" crc="4280980726" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smartmile2.jpg" crc="3939350302" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smartmile2-crop-u17731.jpg" crc="84934903" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rfitag-crop-u49992.jpg" crc="1913121" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smartmile2-crop-u177312.jpg" crc="530146532" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="grafico2739x413.png" crc="295221765" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rfitag-crop-u49993.jpg" crc="4192610505" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smartmile2-crop-u177313.jpg" crc="305971326" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="grafico2520x290.png" crc="4168974372" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fuellog2223x172.jpg" crc="68338129" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tanklog480x371.jpg" crc="418540579" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tanklog222x171.jpg" crc="56735357" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rfitag229x177.jpg" crc="430284287" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smarthlog219x170.jpg" crc="375145516" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smartmile2220x171.jpg" crc="4007159913" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="grafico2388x217.png" crc="32413948" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fuellog2165x127.jpg" crc="3922139975" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tanklog169x131.jpg" crc="109923172" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rfitag157x122.jpg" crc="3786793681" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smarthlog162x126.jpg" crc="4244323426" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smartmile2156x121.jpg" crc="17850686" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="grafico2280x157.png" crc="3994484726" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fuellog2412x318.jpg" crc="4051577858" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="fuellog2189x146.jpg" crc="29694881" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tanklog416x321.jpg" crc="196906956" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="tanklog186x144.jpg" crc="421459482" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rfitag396x306.jpg" crc="247776621" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="rfitag185x143.jpg" crc="372490262" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smarthlog401x310.jpg" crc="4010510034" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smarthlog190x147.jpg" crc="3949681796" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smartmile2394x305.jpg" crc="4219332297" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="smartmile2190x147.jpg" crc="191934377" seo="true" ref="servicios">
+      <caption webpage="servicios" alt=""/>
+    </file>
+    <file name="infografía3.jpg" crc="277167941" seo="true" ref="beneficios">
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+      <caption webpage="beneficios" alt=""/>
+    </file>
+    <file name="infografía3521x805.jpg" crc="475938105" seo="true" ref="beneficios">
+      <caption webpage="beneficios" alt=""/>
+    </file>
+    <file name="infografía3390x603.jpg" crc="3915918105" seo="true" ref="beneficios">
+      <caption webpage="beneficios" alt=""/>
+    </file>
+    <file name="infografía3280x433.jpg" crc="4035042578" seo="true" ref="beneficios">
+      <caption webpage="beneficios" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3938426351" seo="true" mt="1565735085937" redirect="true"/>
+  <file name="servicios.html" crc="276754688" seo="true" mt="1565742090078" redirect="true"/>
+  <file name="beneficios.html" crc="261231487" seo="true" mt="1565742348882" redirect="true"/>
+  <file name="importante.html" crc="257711648" seo="true" mt="1565735259239" redirect="true"/>
+  <file name="contacto.html" crc="3885111346" seo="true" mt="1565735282687" redirect="true"/>
+</manifest>
